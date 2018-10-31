@@ -11,7 +11,7 @@ func main() {
 	router.GET("/", func(c *gin.Context) {
 		c.String(http.StatusOK, "Hello World11!2q1rewwewew1")
 	})
-	router.Run(":8000")
+	router.Run(":8088")
 
 
 }

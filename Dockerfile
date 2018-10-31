@@ -9,6 +9,6 @@ ADD . $GOPATH/src/github.com/go-dgdApi
 #go构建可执行文件
 RUN go build .
 #暴露端口
-EXPOSE 8081
+EXPOSE 8088
 #最终运行docker的命令
 ENTRYPOINT  ["./go-dgdApi"]
