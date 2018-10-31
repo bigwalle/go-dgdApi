@@ -2,5 +2,12 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/golang.org/x/crypto" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/golang.org/x/net" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/golang.org/x/sync" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/golang.org/x/sys" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/golang.org/x/text" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/golang.org/x/time" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/golang.org/x/tools" vcs="Git" />
   </component>
 </project>
