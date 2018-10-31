@@ -9,7 +9,7 @@ func main() {
 	router := gin.Default()
 
 	router.GET("/", func(c *gin.Context) {
-		c.String(http.StatusOK, "Hello World11!2q1rew")
+		c.String(http.StatusOK, "Hello World11!2q1rewwe")
 	})
 	router.Run(":8000")
 
